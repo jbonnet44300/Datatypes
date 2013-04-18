@@ -2,6 +2,6 @@
 ---
 safe: true
 source: http://jbonnet44300.github.io/Datatypes
-destination: pom.xm
+destination: pom.xml
 lsi: false
 pygments: true
