@@ -1,0 +1,7 @@
+## YAML Template.
+---
+safe: true
+source: http://jbonnet44300.github.io/Datatypes
+destination: pom.xml
+lsi: false
+pygments: true
